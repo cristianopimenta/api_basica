@@ -1,0 +1,6 @@
+@otimizeapi_HostAddress = http://localhost:5189
+
+GET {{otimizeapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
